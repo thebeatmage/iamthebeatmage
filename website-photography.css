@@ -64,3 +64,7 @@ li {
   padding: 1rem;
   flex-shrink: 1;
 }
+
+a {
+  color: white;
+}

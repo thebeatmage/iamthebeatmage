@@ -65,6 +65,10 @@ li {
   flex-shrink: 1;
 }
 
+a {
+  color: white;
+}
+
 .container {
   display: inline-flex;
   justify-content: center;
