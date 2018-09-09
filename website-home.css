@@ -21,7 +21,7 @@ h1 {
 }
 
 #animated {
-  animation: pulse 5s infinite;
+  animation: pulse 2s infinite;
 }
 
 @keyframes pulse {
